@@ -12,3 +12,4 @@
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white) 
 ![Scrum](https://img.shields.io/badge/Scrum-36A2EB?style=for-the-badge&logo=trello&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-brightgreen)
